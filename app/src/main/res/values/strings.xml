@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Quiz</string>
+    <string name="score_result">Score_Result</string>
+</resources>
